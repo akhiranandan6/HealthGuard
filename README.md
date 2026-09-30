@@ -111,18 +111,6 @@ health_prediction/
 
 ---
 
-## Deploy to Streamlit Community Cloud
-
-1. Push this repository to GitHub (ensure `.pkl` model files are committed)
-2. Go to [share.streamlit.io](https://share.streamlit.io) and sign in with GitHub
-3. Click "New app" → select your repository → branch: `main` → Main file: `app.py`
-4. Click "Deploy"
-5. The app will be available at `https://<your-username>-health-prediction.streamlit.app`
-
-> Note: Model files (`.pkl`) must be committed to the repository for the app to load correctly.
-
----
-
 ## Disclaimer
 
 > The risk scores produced by this application are for **informational and educational purposes only**. They do not constitute medical advice, diagnosis, or treatment. Always consult a qualified healthcare professional regarding your health.
