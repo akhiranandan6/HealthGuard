@@ -1,0 +1,39 @@
+{
+  "diabetes": {
+    "accuracy": 0.8636,
+    "roc_auc": 0.9447,
+    "cv_accuracy_mean": 0.8763,
+    "train_samples": 614,
+    "test_samples": 154,
+    "features": [
+      "Pregnancies",
+      "Glucose",
+      "BloodPressure",
+      "SkinThickness",
+      "Insulin",
+      "BMI",
+      "DiabetesPedigreeFunction",
+      "Age"
+    ],
+    "trained_date": "2026-09-30"
+  },
+  "cardiovascular": {
+    "accuracy": 0.7221,
+    "roc_auc": 0.7905,
+    "train_samples": 67440,
+    "test_samples": 16861,
+    "features": [
+      "age",
+      "gender",
+      "BMI",
+      "ap_hi",
+      "ap_lo",
+      "cholesterol",
+      "gluc",
+      "smoke",
+      "alco",
+      "active"
+    ],
+    "trained_date": "2026-09-30"
+  }
+}
