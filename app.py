@@ -3,7 +3,7 @@ import sys, os
 sys.path.insert(0, os.path.abspath(os.path.dirname(__file__)))
 
 st.set_page_config(
-    page_title="HealthGuard — Risk Assessment Dashboard",
+    page_title="Health Guard — Risk Assessment",
     page_icon="🏥",
     layout="wide",
     initial_sidebar_state="collapsed",
@@ -21,7 +21,7 @@ st.markdown("""
               letter-spacing:0.06em;text-transform:uppercase;">
     🔬 AI-Powered · Clinically Informed
   </div>
-  <h1 style="font-size:2.4rem;font-weight:700;margin:0 0 0.5rem;color:white;">🏥 HealthGuard Risk Dashboard</h1>
+  <h1 style="font-size:2.4rem;font-weight:700;margin:0 0 0.5rem;color:white;">🏥 Health Guard Risk Assessment Dashboard</h1>
   <p style="font-size:1.1rem;opacity:0.9;margin:0;line-height:1.7;">
     Enter your lifestyle and health data to instantly receive <strong>personalised risk scores</strong>
     for diabetes and cardiovascular disease — powered by machine learning and clinical formulas.
