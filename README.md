@@ -2,7 +2,7 @@
 
 A **Streamlit** web application that lets users input lifestyle and basic health data and receive personalised risk scores for **diabetes** and **cardiovascular disease**, complete with recommendations and a downloadable PDF report.
 
-Live demo: deployed on [Streamlit Community Cloud](https://streamlit.io/cloud)
+Live demo: deployed on [Streamlit Community Cloud](https://healthguard-hcrldeawmugnxomhqdywch.streamlit.app/)
 
 ---
 
