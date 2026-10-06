@@ -42,7 +42,7 @@ Live demo: deployed on [Streamlit Community Cloud](https://healthguard-hcrldeawm
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/<your-username>/health_prediction.git
+git clone https://github.com/akhiranandan6/health_prediction.git
 cd health_prediction
 
 # 2. (Optional) Create and activate a virtual environment
